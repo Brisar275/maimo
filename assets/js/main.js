@@ -174,6 +174,5 @@ const frankenSong = (lista) => {
 console.log("Ex 21. Canción mezclada:", frankenSong(songs));
 
 
-const clima = (ciudad, temp, unidad) => `El clima en ${ciudad} es de ${temp} ${unidad}`;
+const clima = (ciudad, temp, unidad) => `El climaaa en ${ciudad} es de ${temp} ${unidad}`;
 console.log("Ex 22:", clima("Buenos Aires", 24, "°C"));
-
